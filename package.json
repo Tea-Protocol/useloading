@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tea-Protocol/useloading.git"
+    "url": "https://github.com/Tea-Protocol/useloading.git"
   },
   "author": "",
   "license": "ISC",
